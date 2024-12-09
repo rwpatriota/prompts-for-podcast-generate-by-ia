@@ -45,6 +45,20 @@ Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Título | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em segurança cibernética.
+Gostaria de ajuda para criar 5 sugestões de títulos criativos para um podcast de cibersegurança feito por especialistas.
+O título deve possuir algum trocadilho com tema relacionado a combates militares no nome.
+O podcast vai falar sobre dicas e novidades sobre o mundo da cibersegurança e sobre como se prevenir contra golpes e fraudes mais comuns.
+
+{REGRAS}
+- O título deve ser enxuto, deve possuir um título e um subtítulo
+- O título deve possuir algum trocadilho com nomes de filmes sobre combates militares.
+- O título deve conter alguma palavra forte que remeta a vencer batalhas
+
+{REGRAS NEGATIVAS}
+- Não quero que o título contenha palavras em inglês |
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
@@ -55,14 +69,6 @@ Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Expert
 
