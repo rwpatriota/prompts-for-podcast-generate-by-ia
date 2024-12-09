@@ -52,13 +52,14 @@ Gostaria de ajuda para criar 5 sugestões de títulos criativos para um podcast 
 O título deve possuir algum trocadilho com tema relacionado a combates militares no nome.
 O podcast vai falar sobre dicas e novidades sobre o mundo da cibersegurança e sobre como se prevenir contra golpes e fraudes mais comuns.
 
-{REGRAS}
-- O título deve ser enxuto, deve possuir um título e um subtítulo
-- O título deve possuir algum trocadilho com nomes de filmes sobre combates militares.
-- O título deve conter alguma palavra forte que remeta a vencer batalhas
+REGRAS
+O título deve ser enxuto, deve possuir um título e um subtítulo
+O título deve possuir algum trocadilho com nomes de filmes sobre combates militares.
+O título deve conter alguma palavra forte que remeta a vencer batalhas
 
-{REGRAS NEGATIVAS}
-- Não quero que o título contenha palavras em inglês |
+REGRAS NEGATIVAS
+Não quero que o título contenha palavras em inglês |
+
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
