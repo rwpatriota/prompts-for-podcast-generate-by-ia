@@ -5,10 +5,11 @@
 />
 </p>
 
-<a href="https://github.com/rwpatriota/prompts-for-podcast-generate-by-ia/output/podcast-ciber-defesa.mp3"> Preview do Podcast! </a>
+<p align="center">
+<a href="https://github.com/rwpatriota/prompts-for-podcast-generate-by-ia/blob/main/output/podcast-ciber-defesa.mp3"> Preview do Podcast! </a>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
-
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte de um laboratório em um curso da [DIO](https://dio.me)
 
