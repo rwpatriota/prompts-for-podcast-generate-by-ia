@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do Podcast!
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast-ciber-defesa.mp3" controls title="Podcast Editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
