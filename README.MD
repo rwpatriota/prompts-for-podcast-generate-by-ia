@@ -5,26 +5,7 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    Preview do Podcast!
-</p>
-
-<div align="center">
-    <audio src="output/podcast-ciber-defesa.mp3" controls title="Podcast Editado"></audio>
-</div>
+<a href="https://github.com/rwpatriota/prompts-for-podcast-generate-by-ia/output/podcast-ciber-defesa.mp3"> Preview do Podcast! </a>
 
 # Projeto Podcast Gerado por I.A.s
 
