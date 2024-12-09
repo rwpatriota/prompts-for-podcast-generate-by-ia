@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rwpatriota/prompts-for-podcast-generate-by-ia/blob/main/output/podcast-ciber-defesa.mp3"> Preview do Podcast! </a>
+<a href="https://github.com/rwpatriota/prompts-for-podcast-generate-by-ia/blob/main/output/podcast-ciber-defesa.mp3"> Baixe aqui o Podcast! </a>
 </p>
 
-# Projeto Podcast Gerado por I.A.s
+# Podcast Ciber Defesa - Estratégias e Táticas para Vencer Ameaças Digitais!
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte de um laboratório em um curso da [DIO](https://dio.me)
+ > **NOTA:** Este é o repositório desenvolvido como parte de um laboratório em um curso da [DIO](https://dio.me).
 
 Este projeto tem como objetivo gerar um podcast utilizando ferramentas de IA por meio de prompts mais elaborados.
 
